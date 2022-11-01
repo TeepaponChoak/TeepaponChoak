@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/teepapon choak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teepapon choak" height="30" width="40" /></a>
+<a href="https://fb.com/teepapon.choak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teepapon choak" height="30" width="40" /></a>
 <a href="https://instagram.com/teepapon.choak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teepapon.choak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/typon gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="typon gamer" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xHJdb8ZVrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xHJdb8ZVrw" height="30" width="40" /></a>
